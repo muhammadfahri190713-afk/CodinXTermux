@@ -1,0 +1,22 @@
+{
+ "markdown_it": {
+  "version": "4.0.0",
+  "license_file": true
+ },
+ "mdurl": {
+  "version": "0.1.2",
+  "license_file": true
+ },
+ "tabulate": {
+  "version": "0.10.0",
+  "license_file": true
+ },
+ "yaml": {
+  "version": "6.0.3",
+  "license_file": true
+ },
+ "zoneinfo": {
+  "files": 499,
+  "license": "domain publik (IANA tz database)"
+ }
+}
